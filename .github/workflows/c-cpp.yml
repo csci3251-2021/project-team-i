@@ -9,6 +9,4 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
-
- 
+    run: gcc code.c -o code; ./code
