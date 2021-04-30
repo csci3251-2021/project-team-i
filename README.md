@@ -17,3 +17,6 @@ Gonna set up a repo. Things left:
   </p>
   <p>{{ staff_member.content | markdownify }}</p>
 {% endfor %}
+
+---
+Last updated: {{ site.time }}
