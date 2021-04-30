@@ -5,8 +5,7 @@ Gonna set up a repo. Things left:
 * Task 7: Get a status badge
 * Task 8: Promote your repo
 
-![test](https://github.com/csci3251-2021/project-team-i/actions/workflows/c-cpp.yml/badge.svg)
-
+![workflow](https://github.com/csci3251-2021/project-team-i/actions/workflows/c-cpp.yml/badge.svg)
 # Code
 ```C
 #include <stdio.h>
