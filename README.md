@@ -5,8 +5,16 @@ Gonna set up a repo. Things left:
 * Task 7: Get a status badge
 * Task 8: Promote your repo
 
+![workflow](https://github.com/csci3251-2021/project-team-i/actions/workflows/c-cpp.yml/badge.svg)
 # Code
-//please write the code here
+```C
+#include <stdio.h>
+int main(){
+  printf("hello world");
+  return 0;
+}
+```
+
 # Contributors
 {% for staff_member in site.stu %}
   <p><img class="media-object" src="{{ staff_member.image }}" width="50px" height="50px">
