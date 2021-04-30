@@ -1,4 +1,4 @@
-name: C/C++ CI
+name: CSCI3251 Team I
 
 on:
   push:
