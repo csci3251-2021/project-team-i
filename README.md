@@ -6,14 +6,14 @@ Gonna set up a repo. Things left:
 * Task 8: Promote your repo
 
 # Code
-```C
+``` c
 #include <stdio.h>
 int main(){
   printf("hello world");
   return 0;
 }
 ```
-https://github.com/csci3251-2021/project-team-i/actions/workflows/c-cpp.yml/badge.svg
+![Generic Badge](https://github.com/csci3251-2021/project-team-i/actions/workflows/c-cpp.yml/badge.svg)
 
 # Contributors
 {% for staff_member in site.stu %}
