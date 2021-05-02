@@ -1,9 +1,11 @@
 # Introduction
-Gonna set up a repo. Things left:
-* Task 5: Keep checking...
-* Task 6: Write C code
-* Task 7: Get a status badge
-* Task 8: Promote your repo
+In our project we have demonstrated the following
+* Manage issues and pull requests, as well as keeping track of issues using the Project board
+* Set up a readme file with code, team info, and a nice looking theme
+* Show team members and their avatars using markdown
+* Show some C code that we have written with syntax highlighting
+* Apply a status badge to our code
+* Lastly, we were able to promote our repository
 
 # Code
 ``` c
@@ -13,7 +15,7 @@ int main(){
   return 0;
 }
 ```
-![Generic Badge](https://github.com/csci3251-2021/project-team-i/actions/workflows/c-cpp.yml/badge.svg)
+![Generic Badge](https://github.com/ikim0106/dummy_repo/blob/main/badge.svg)
 
 # Contributors
 {% for staff_member in site.stu %}
