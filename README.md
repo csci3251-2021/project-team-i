@@ -1,7 +1,7 @@
 # Introduction
 In our project we have demonstrated the following
 * Manage issues and pull requests, as well as keeping track of issues using the Project board
-* Set up a readme file with
+* Set up a readme file with code, team info, and a nice looking theme
 * Show team members and their avatars using markdown
 * Show some C code that we have written with syntax highlighting
 * Apply a status badge to our code
